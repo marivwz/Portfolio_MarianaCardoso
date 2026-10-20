@@ -30,6 +30,12 @@ nav{
     padding-top: 12px;
 }
 
+.eu {
+    width: 350px;
+    height: auto;
+    padding-top: 12px;
+}
+
 .texto {
     flex: 1;
 }
